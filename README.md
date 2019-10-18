@@ -8,6 +8,6 @@ Hola
 Hola
 Hola
 Adios
-Hasta Luegoo
+Hasta Luego
 Adios
 Hola
